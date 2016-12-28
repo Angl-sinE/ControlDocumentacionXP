@@ -101,7 +101,7 @@ $idProyectoActivo=intval($idpA);
                           <li>
                            <a>
                            <?php
-                           // comentario //
+                        
                             $tarea->readTareaM(); 
                             ?>                        
                            </a>
